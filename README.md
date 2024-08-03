@@ -3,11 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&duration=1000&pause=500&color=08813D&background=B10F0F00&center=true&multiline=true&random=false&width=435&lines=Ashutosh+Kumar;AI+Engineer+%7C+Data+Scientist+%7C+Gen+AI+%7C+NLP++)
 <br/>
 
-<a href="https://github.com/drkostas">
+<a href="https://github.com/ashutosh-iitg">
     <img src="https://github-stats-alpha.vercel.app/api?username=ashutosh-iitg&cc=22272e&tc=08813DFF&ic=fff&bc=0000">
 </a>
 <br>
-<a href="https://drive.google.com/file/d/18HyUXLL3a2qvd1bNhS0C30jyx6e_bPO3/view?usp=sharing">
+<a href="https://github.com/ashutosh-iitg/ashutosh-iitg/blob/master/assets/CV_Ashutosh.pdf">
     <img src="https://img.shields.io/badge/Resume-red?style=fsocial&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/ashutosh-iitg/">
