@@ -16,6 +16,7 @@
 <a href="mailto:ashutosh.iitg.16@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=ffsocial&logo=gmail&logoColor=white">
 </a>
+</p>
 
 <!--
 **ashutosh-iitg/ashutosh-iitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
