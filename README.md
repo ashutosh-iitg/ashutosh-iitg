@@ -7,7 +7,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=ashutosh-iitg&cc=22272e&tc=08813DFF&ic=fff&bc=0000">
 </a>
 <br>
-<a href="https://github.com/ashutosh-iitg/ashutosh-iitg/blob/master/assets/CV_Ashutosh.pdf">
+<a href="https://drive.google.com/file/d/1QmZkCTqzQ_SIYUDGGH9h9TGr_uEWz4Po/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-red?style=fsocial&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/ashutosh-iitg/">
