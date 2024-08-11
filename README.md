@@ -4,7 +4,7 @@
 <br/>
 
 <a href="https://github.com/ashutosh-iitg">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ashutosh-iitg&cc=22272e&tc=08813DFF&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ashutosh-iitg&cc=22272e&tc=34ebc6&ic=fff&bc=0000">
 </a>
 <br>
 <a href="https://drive.google.com/file/d/1QmZkCTqzQ_SIYUDGGH9h9TGr_uEWz4Po/view?usp=sharing">
